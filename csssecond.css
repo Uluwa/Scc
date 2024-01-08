@@ -1,0 +1,14 @@
+body{
+    background-image: url(./img/onload.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #f0f0f0;
+}
+.second{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+    opacity: 0.5;
+}
